@@ -1,3 +1,3 @@
-# Github_test
+# Github test
 
-Hello world
+This is the private remote repository for development.
